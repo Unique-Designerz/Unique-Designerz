@@ -3,7 +3,8 @@
 </div>  
   
 
-### <div align="center">Hi! I m Nouman Imran & i am a full-time full-stack freelance developer 👨‍💻 </div>  
+### <br/><div align="center"><h3>Hi! I m Nouman Imran & i am a full-time full-stack freelance developer 👨‍💻 </h3></div>  
+<br/>
   
 
 - 🔭 I’m currently working on Weather App Project  
